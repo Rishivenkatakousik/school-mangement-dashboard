@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://school-mangement-dashboard.vercel.app/admin" target="_blank">
+    <a href="https://school-mangement-dashboard-mfngplzrl.vercel.app/admin" target="_blank">
       <img src="https://res.cloudinary.com/dibvsl8ic/image/upload/v1742586531/Screenshot_2025-03-22_010642_hyetah.png">
     </a>
   <br />
